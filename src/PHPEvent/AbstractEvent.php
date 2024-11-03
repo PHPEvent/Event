@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Potter\Event;
+namespace PHPEvent;
 
 use Symfony\Component\EventDispatcher\GenericEvent;
 

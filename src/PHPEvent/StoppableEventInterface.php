@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Potter\Event;
+namespace PHPEvent;
 
 use Psr\EventDispatcher\StoppableEventInterface as PsrStoppableEventInterface;
 

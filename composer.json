@@ -1,5 +1,5 @@
 {
-    "name": "potter/event",
+    "name": "php-event/event",
     "description": "PHP Event Implementation",
     "type": "library",
     "require": {
@@ -10,7 +10,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Potter\\Event\\": "src/Potter/Event/"
+            "PHPEvent\\": "src/PHPEvent/"
         }
     },
     "authors": [

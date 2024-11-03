@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Potter\Event;
+namespace PHPEvent;
 
 interface EventInterface extends StoppableEventInterface
 { }
